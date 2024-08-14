@@ -54,6 +54,6 @@ To reproduce the analysis and model development, execute the Jupyter notebooks i
 005_SpaceX_EDA_Data_Visualization.ipynb \
 006_SpaceX_Interactive_Visual_Analytics_Folium.ipynb \
 007_SpaceX_Interactive_Visual_Analytics_Plotly \
-008_SpaceX_Predictive_Analytics.ipynb \
+008_SpaceX_Predictive_Analytics.ipynb 
 
 The analysis reveals significant insights into the factors influencing the success of SpaceX launches. The machine learning models developed in this project provide a robust mechanism for predicting the likelihood of a successful launch based on historical data.
