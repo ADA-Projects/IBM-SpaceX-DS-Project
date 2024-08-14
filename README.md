@@ -19,14 +19,14 @@ Visualization: Interactive maps and charts are created using Folium and Matplotl
 Prerequisites
 Ensure you have the following packages installed:
 
-Python 3.x
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-folium
-sqlalchemy
+Python 3.x \
+pandas \
+numpy \
+matplotlib \
+seaborn \ 
+scikit-learn \ 
+folium \
+sqlalchemy \
 ipython-sql
 
 
@@ -46,14 +46,14 @@ pip install -r requirements.txt
 ### Running the Project
 To reproduce the analysis and model development, execute the Jupyter notebooks in the following order:
 
-000_SpaceX_Final_PP.pdf
-001_SpaceX_Data_Collection_API.ipynb
-002_SpaceX_Web_Scraping.ipynb
-003_SpaceX_Data_Wrangling.ipynb
-004_SpaceX_EDA_SQL.ipynb
-005_SpaceX_EDA_Data_Visualization.ipynb
-006_SpaceX_Interactive_Visual_Analytics_Folium.ipynb
-007_SpaceX_Interactive_Visual_Analytics_Plotly
-008_SpaceX_Predictive_Analytics.ipynb
+000_SpaceX_Final_PP.pdf \
+001_SpaceX_Data_Collection_API.ipynb \
+002_SpaceX_Web_Scraping.ipynb \
+003_SpaceX_Data_Wrangling.ipynb \
+004_SpaceX_EDA_SQL.ipynb \
+005_SpaceX_EDA_Data_Visualization.ipynb \
+006_SpaceX_Interactive_Visual_Analytics_Folium.ipynb \
+007_SpaceX_Interactive_Visual_Analytics_Plotly \
+008_SpaceX_Predictive_Analytics.ipynb \
 
 The analysis reveals significant insights into the factors influencing the success of SpaceX launches. The machine learning models developed in this project provide a robust mechanism for predicting the likelihood of a successful launch based on historical data.
